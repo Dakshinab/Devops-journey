@@ -12,7 +12,7 @@ This repo is where I rebuild and practice the full DevOps path, step by step.
 
 | Section | Topic | Tools | Status |
 |---------|-------|-------|--------|
-| 01 | Linux and WSL2 | Linux, WSL2, permissions, users | In progress |
+| 01 | Linux and WSL2 | Linux, WSL2, permissions, users | Done |
 | 02 | Git and GitHub | Git, GitHub | Not started |
 | 03 | Networking | DNS, HTTP, ports, firewall, curl | Not started |
 | 04 | Bash scripting | Bash | Not started |
