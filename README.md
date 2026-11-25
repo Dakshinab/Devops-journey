@@ -34,3 +34,5 @@ Each folder is one section. Inside, a README explains the task: what I built, wh
 
 No secrets are stored here. Keys, `.env` files, and `.pem` files are ignored.
 AWS work runs on the free tier. Servers are stopped after each session and terminated at the end.
+
+Last updated: November 2026
