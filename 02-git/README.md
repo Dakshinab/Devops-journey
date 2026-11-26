@@ -1,1 +1,1 @@
-# 02 - Git and GitHub
+# 02 - Git
